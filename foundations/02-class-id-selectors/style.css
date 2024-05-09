@@ -2,4 +2,17 @@
 
 .alert-text {
     background-color:rgb(238, 98, 98);
+    font-family: Verdana, "DejaVu Sans", serif;
+    
+}
+.severe-alert {
+    font-size: 24px;
+}
+
+#title {
+    color: rgb(34, 34, 124);
+    font-size: 36px;
+}
+#number4 {
+    background-color: rgb(rgb(6, 51, 6))
 }
